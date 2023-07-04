@@ -1,10 +1,4 @@
-# Deploy containerized applications
 
-**Note**: Can be done in 2-3 groups!
-
-## Background
-
-In this project, you are going to design and deploy an image detection service that consists of multiple containers. 
 
 The application allows users to upload images and respond with objects that the service detected in the image.
 Users can interact with the application through a simple web UI or an interactive Telegram bot to obtain object detection results.
